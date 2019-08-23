@@ -8,3 +8,5 @@ Alterações para teste.
 Alteração feita no branch edit-readme.
 
 Aula 1 (23/08/2019): Introdução ao Github: commits, commits, pull requests, criação de versões.
+
+Exercicio : Alteração no branch do colaborador
