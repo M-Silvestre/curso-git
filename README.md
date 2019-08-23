@@ -3,3 +3,6 @@ Repositório destinado ao curso de Extensão "Estatística Aplicada em Software 
 
 
 novo texto adicionado
+
+
+Alterações para teste.
